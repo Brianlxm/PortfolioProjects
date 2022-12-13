@@ -1,4 +1,5 @@
 Nba data analysis
+- In this NBA season so far, there have been 5 players averaging over 30 ppg. There are 15 players averaging over 25 and close to 40 players averaging over 20. To put things into perspective, 10 years ago during the 2012-2013 season, there were 0 players that averaged over 30, 5 players that averaged over 25, and 9 players that averaged over 20. What is the cause of this and how has the game changed?
 -	How has nba scoring changed over the past 30 years?
 o	Scoring changes over the years league average (maybe: line graph)
 o	Query count players ppg over 20, 25, 30 over the years
@@ -37,4 +38,3 @@ Further questions
 -	How has viewership/ratings/revenue changed?
 -	Which team is most profitable?
 o	How does location, popularity(fanbase size, superstars), standings(performance) effect this
-
